@@ -16,7 +16,7 @@ Pola wymagane:
 ## Produkty (pojazdy)
 Moduł ten proponuję wykorzystać do rejestrowania w systemie pojazdów. 
 
-![produkt-overview.png](:/0d120679a60c4838a8587b07c12a0957)
+![https://imgur.com/1RX2TWe](:/0d120679a60c4838a8587b07c12a0957)
 
 Podgląd produktu zbiera wszystkie informacje dot. same produktu (1) oraz wszelkich infomracji z nim powiązanych:
 1. Obiekt listy
