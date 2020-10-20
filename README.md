@@ -1,4 +1,3 @@
-# pslogistics-dokumentacja
 # Infomracje ogólne
 
 # Magazyn
